@@ -11,7 +11,9 @@ namespace ATM
 
         static async Task Main(string[] args)
         {
-            await Client.WelcomeMethod();
+           await Client.WelcomeMethod();
+
+           
            
         }
 

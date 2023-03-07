@@ -5,7 +5,7 @@
         private static int _choice;
         public static async Task WelcomeMethod()
         {
-
+            Console.Clear();
         inputTry: Utility.PrintColorMessage(ConsoleColor.Cyan, "\nPlease enter an option:");
             try
             {
