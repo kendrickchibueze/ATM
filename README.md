@@ -13,7 +13,7 @@ A pragmatic run of our executable assembly looks like this:
 ## Database 😎🤷‍♀️
 A pragmatic Look at our BankAccount table  for the purpose of Login looks like this:
 
-![](https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/36199e632d149477b9c498dab8ad25020c0a5670/Screenshot%20(521).png)
+![](https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/8aeac4ce6a2e1b8831b497f3b2d49049e2f5a53a/Screenshot%20(523).png)
 
 ## Software Development Summary😃👓👓
 * **Technology**: C#👓
@@ -38,4 +38,5 @@ If user key in the wrong pin more than 3 times, the bank account will be locked 
 ### Assumption 🎗:
 All bank accounts are retrieved from the database.
 
+**_Author_** : CC.Kendrick
 
