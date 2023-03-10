@@ -2,7 +2,7 @@
 This is  an ATM console application built with C#👓.It is designed using object oriented programming(OOP) construct and SQL database. An explicit look at our Entity relationship diagram for my database looks like this:
 
 ## Usage😃
-* Clone the repository: ``` git clone https://github.com/kendrickchibueze/ATM-ADO.NET.git```
+* Clone the repository: ``` git clone https://github.com/kendrickchibueze/ATM.git```
 
 * Copy and paste your DataSource name into the  connection string  of the App.Config file.
 
